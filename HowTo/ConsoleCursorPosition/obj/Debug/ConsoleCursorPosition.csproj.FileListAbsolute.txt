@@ -1,0 +1,6 @@
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ConsoleCursorPosition\obj\Debug\ConsoleCursorPosition.csproj.CoreCompileInputs.cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ConsoleCursorPosition\bin\Debug\ConsoleCursorPosition.exe.config
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ConsoleCursorPosition\bin\Debug\ConsoleCursorPosition.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ConsoleCursorPosition\bin\Debug\ConsoleCursorPosition.pdb
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ConsoleCursorPosition\obj\Debug\ConsoleCursorPosition.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ConsoleCursorPosition\obj\Debug\ConsoleCursorPosition.pdb

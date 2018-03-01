@@ -1,0 +1,10 @@
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\bin\Debug\GameBoardGrid.exe.config
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\bin\Debug\GameBoardGrid.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\bin\Debug\GameBoardGrid.pdb
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\obj\Debug\GameBoardGrid.csprojResolveAssemblyReference.cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\obj\Debug\GameBoardGrid.Form1.resources
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\obj\Debug\GameBoardGrid.Properties.Resources.resources
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\obj\Debug\GameBoardGrid.csproj.GenerateResource.Cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\obj\Debug\GameBoardGrid.csproj.CoreCompileInputs.cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\obj\Debug\GameBoardGrid.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\GameBoardGrid\GameBoardGrid\obj\Debug\GameBoardGrid.pdb

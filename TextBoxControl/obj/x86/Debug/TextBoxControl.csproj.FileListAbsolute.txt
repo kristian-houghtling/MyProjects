@@ -1,0 +1,6 @@
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\TextBoxControl\bin\Debug\WindowsApplication.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\TextBoxControl\bin\Debug\WindowsApplication.pdb
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\TextBoxControl\obj\x86\Debug\TextBoxControl.csprojResolveAssemblyReference.cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\TextBoxControl\obj\x86\Debug\TextBoxControl.csproj.CoreCompileInputs.cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\TextBoxControl\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\TextBoxControl\obj\x86\Debug\WindowsApplication.pdb

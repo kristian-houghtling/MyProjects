@@ -1,0 +1,7 @@
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ResizeConsoleWindow\bin\Debug\ResizeConsoleWindow.exe.config
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ResizeConsoleWindow\bin\Debug\ResizeConsoleWindow.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ResizeConsoleWindow\bin\Debug\ResizeConsoleWindow.pdb
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ResizeConsoleWindow\obj\Debug\ResizeConsoleWindow.csprojResolveAssemblyReference.cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ResizeConsoleWindow\obj\Debug\ResizeConsoleWindow.csproj.CoreCompileInputs.cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ResizeConsoleWindow\obj\Debug\ResizeConsoleWindow.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\HowTo\ResizeConsoleWindow\obj\Debug\ResizeConsoleWindow.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\Kristian-dev\Desktop\C# PRACTICE\Decisions\Decisions\obj\Debug\Decisions.pdb

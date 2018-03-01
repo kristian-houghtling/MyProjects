@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxControl", "TextBoxControl.csproj", "{292F4708-A7A8-4360-89C4-1FFAD162327B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292F4708-A7A8-4360-89C4-1FFAD162327B}.Debug|x86.ActiveCfg = Debug|x86
+		{292F4708-A7A8-4360-89C4-1FFAD162327B}.Debug|x86.Build.0 = Debug|x86
+		{292F4708-A7A8-4360-89C4-1FFAD162327B}.Release|x86.ActiveCfg = Release|x86
+		{292F4708-A7A8-4360-89C4-1FFAD162327B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A407C82-4910-4CBF-A07E-C2C01E40DF5F}
+	EndGlobalSection
+EndGlobal
